@@ -9,3 +9,5 @@ Extra examples:
 Chapter 05: strategy + iterator pattern
 
 Chapter 06: observer pattern + collection (hash map)
+
+Chapter 07: command + decorator pattern
