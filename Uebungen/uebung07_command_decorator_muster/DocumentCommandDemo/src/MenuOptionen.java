@@ -13,13 +13,10 @@ public class MenuOptionen {
     //operations
     public void clickOpen(){
         //do the real stuff
+        openCommand.execute();
 
     }
-
     public void clickClose(){
-
-
+        saveCommand.execute();
     }
-
-
 }

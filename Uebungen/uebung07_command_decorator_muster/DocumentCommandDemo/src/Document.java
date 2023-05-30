@@ -6,22 +6,27 @@ public class Document {
     //constructor
     public Document(){}
 
-    public Document(File f){
-        this.file = f;
+    //add file by path
+    public Document(String path){
+        this.file = new File(path);
     }
 
+    //add file
+    public Document(File file){
+        this.file = file;
+    }
 
     //operations
     public void open(){
         //do the printing thing
-        System.out.println("Document " + file.getName() + "is opened.");
+        System.out.println("Document " + file.getName() + " is opened.");
 
     }
     public void close(){
-        System.out.println("Document " + file.getName() + "is closed.");
+        System.out.println("Document " + file.getName() + " is closed.");
     }
 
     public String getFilePath(){
-        return file.getPath();
+        return file.toString();
     }
 }
