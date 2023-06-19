@@ -25,4 +25,18 @@ public class PizzaStore {
     public void setsImplePizzaFactory(SimplePizzaFactory simplePizzaFactory) {
         this.simplePizzaFactory = simplePizzaFactory;
     }
+
+    //functions from SimplePizzaFactory
+    public Pizza orderCheesePizza(int... slice){
+        return simplePizzaFactory.orderCheesePizza(slice);
+    }
+    public Pizza orderMargheritaPizza(int... slice){
+        return simplePizzaFactory.orderMargheritaPizza(slice);
+    }
+    public Pizza orderPepperoniPizza(int... slice){
+        return simplePizzaFactory.orderPepperoniPizza(slice);
+    }public Pizza orderSurprisePizza(int... slice){
+        return simplePizzaFactory.orderSurprisePizza(slice);
+    }
+
 }

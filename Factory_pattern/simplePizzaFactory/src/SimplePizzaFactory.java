@@ -42,7 +42,7 @@ public class SimplePizzaFactory {
         return pepperoniPizza;
     }
 
-    public Pizza orderSurprisePizza(){
+    public Pizza orderSurprisePizza(int... slice){
         Random r = new Random();
         List<Pizza> pizzaList = new ArrayList<>(){
             //内部匿名类
@@ -54,7 +54,7 @@ public class SimplePizzaFactory {
         };
         Pizza pizza = pizzaList.get(r.nextInt(pizzaList.size() - 1));
         System.out.println("Random pizza is ordered.\n");
-        preparePizza(pizza);
+        preparePizza(pizza, slice);
         return pizza;
     }
 
