@@ -6,9 +6,10 @@ public class PizzaStoreTest {
         PizzaStore store02 = new PizzaStore("NYstore02", nyFactory);
         PizzaStore store03 = new PizzaStore("ChicagoStore01", chicagoFactory);
 
-        store01.orderPizza(PizzaType.MARGHERITA_PIZZA, 6);
+        Pizza pizza1 = store01.orderPizza(PizzaType.MARGHERITA_PIZZA, 6);
         store02.orderPizza(PizzaType.PEPPERONI_PIZZA);
         store03.orderPizza(PizzaType.MEAT_PIZZA, 12);
+        //System.out.println("Pizza 1: " + pizza1);
 
 
     }
