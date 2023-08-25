@@ -1,7 +1,0 @@
-public enum PizzaType {
-    MARGHERITA_PIZZA,
-    PEPPERONI_PIZZA,
-    CHEESE_PIZZA,
-    VEGGIE_PIZZA,
-    MEAT_PIZZA
-}
