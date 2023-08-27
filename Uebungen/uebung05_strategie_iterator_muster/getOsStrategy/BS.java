@@ -25,6 +25,14 @@ public class BS {
     public String getOS() {
         return strategie.getOS();
     }
+
+    // rewrite the toString function
+    @Override
+    public String toString() {
+        return getOS();
+    }
+
+    
 }
 
 
