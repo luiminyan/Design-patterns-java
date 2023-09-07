@@ -5,10 +5,10 @@ Chapter 03
 
 K04: generic programming + recursion 
   -  U04: example: binary tree 
-  -  04.01: recursion 
-  -  04.02: generic programming 
+	  -  04.01: recursion 
+	  -  04.02: generic programming 
 
-Chapter 05: strategy + iterator pattern
+K05: strategy + iterator pattern
 
 Chapter 06: observer pattern + collection (hash map)
 
