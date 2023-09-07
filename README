@@ -15,6 +15,12 @@ K05: strategy + iterator pattern
   - U05.02: iterator pattern
         -   example: binary tree
 
-Chapter 06: observer pattern + collection (hash map)
+K06: observer pattern + collection (hash map)
 
-Chapter 07: command + decorator pattern
+K07: command + decorator pattern
+
+K10: template + composite
+  - U10.1: template pattern 
+	-  example: datenHandler (CSVHandler, TXTHandler)
+  - U10.2: composite pattern
+	-  example: fileSystem (DirComponent, Directory, File)
