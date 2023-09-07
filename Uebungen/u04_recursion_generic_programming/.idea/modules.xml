@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Datenstrukturen_Comparable/Comparable.iml" filepath="$PROJECT_DIR$/Datenstrukturen_Comparable/Comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Datenstrukturen/Datenstrukturen.iml" filepath="$PROJECT_DIR$/Datenstrukturen/Datenstrukturen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/u04_recursion_generic_programming.iml" filepath="$PROJECT_DIR$/.idea/u04_recursion_generic_programming.iml" />
+    </modules>
+  </component>
+</project>
