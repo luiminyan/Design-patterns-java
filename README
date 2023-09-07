@@ -9,6 +9,11 @@ K04: generic programming + recursion
 	  -  04.02: generic programming 
 
 K05: strategy + iterator pattern
+  - U05.1: strategy pattern
+        -   example 01: Betriebssystem
+        -   example 02: Online-Shop
+  - U05.02: iterator pattern
+        -   example: binary tree
 
 Chapter 06: observer pattern + collection (hash map)
 
