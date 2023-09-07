@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VerzeichnisstrukturComposite/VerzeichnisstrukturComposite.iml" filepath="$PROJECT_DIR$/VerzeichnisstrukturComposite/VerzeichnisstrukturComposite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/u10_template_composite.iml" filepath="$PROJECT_DIR$/u10_template_composite.iml" />
+    </modules>
+  </component>
+</project>
