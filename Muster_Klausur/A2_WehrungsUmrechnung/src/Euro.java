@@ -1,5 +1,6 @@
 public class Euro implements Waehrung{
     private double wert;
+
 //    constructor
     public Euro (double wert){
         this.wert = wert;
