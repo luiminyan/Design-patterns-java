@@ -3,12 +3,14 @@ public class Ort {
     private String Name;
     private double X;
     private double Y;
+
 //    constructor
     public Ort(String Name, double X, double Y){
         this.Name = Name;
         this.X = X;
         this.Y = Y;
     }
+
 //    getters & setters
     public String getName() {
         return Name;

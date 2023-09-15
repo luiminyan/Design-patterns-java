@@ -11,9 +11,9 @@ public class AutoStrategie implements ReiseStrategie{
 
 //implement the capsuled function from interface
     @Override
-    public double berechneZeit(ArrayList<Ort> route) {
+    public double berechneZeit(Ort[] route) {
         double zeit = 0.0;
-        if (baustellen == null) {
+        if (baustellen.isEmpty()) {
             return 0;
         }
         else for (Ort ort : route) {
