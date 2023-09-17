@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/CommanStack/CommanStack.iml" filepath="$PROJECT_DIR$/CommanStack/CommanStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Command.iml" filepath="$PROJECT_DIR$/.idea/Command.iml" />
       <module fileurl="file://$PROJECT_DIR$/DocumentCommand/DocumentCommand.iml" filepath="$PROJECT_DIR$/DocumentCommand/DocumentCommand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/K_SoSe21_FilterCommands/K_SoSe21_FilterCommands.iml" filepath="$PROJECT_DIR$/K_SoSe21_FilterCommands/K_SoSe21_FilterCommands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MK_DruckZentrum/MK_DruckZentrum.iml" filepath="$PROJECT_DIR$/MK_DruckZentrum/MK_DruckZentrum.iml" />
     </modules>
   </component>
 </project>
