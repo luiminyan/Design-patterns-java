@@ -1,30 +1,31 @@
-public class EinstellungenState extends State{
-    public EinstellungenState(Kaffeemaschine kaffeemaschine) {
+public class BruehzeitState extends State{
+    public BruehzeitState(Kaffeemaschine kaffeemaschine) {
         super(kaffeemaschine);
     }
 //    implement functions from 'State'
     @Override
     public void start() {
-//        re-enter "Milchkaffee" mode
-        kaffeemaschine.changeState(new EinstellungenState(kaffeemaschine));
+//       first set Brühzeit + then re-enter "BRÜHZEIT" state
+        kaffeemaschine.setBruehzeit();
+        kaffeemaschine.changeState(new BruehzeitState(kaffeemaschine));
     }
 
     @Override
     public void stop() {
-//        return to "STANDBY"
-        kaffeemaschine.changeState(new StandbyState(kaffeemaschine));
+//      enter "EINSTELLUNG
+        kaffeemaschine.changeState(new EinstellungenState(kaffeemaschine));
     }
 
     @Override
     public void select() {
-//        change to "EINSTELLUNG"
-        kaffeemaschine.changeState(new );
+//      enter "RÖSTSTUFE"
+        kaffeemaschine.changeState(new RoeststufeState(kaffeemaschine));
     }
 
 //      entry the state Standby
     @Override
     public void onEntry() {
 //        print out 'STANDBY' in console
-        System.out.println("MILCHKAFFEE");
+        System.out.println("BRÜHZEIT " + kaffeemaschine.getBruehzeit());
     }
 }
