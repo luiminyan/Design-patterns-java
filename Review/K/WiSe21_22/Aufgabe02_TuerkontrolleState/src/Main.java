@@ -10,7 +10,5 @@ public class Main {
         maschine.button02();        //closed
         maschine.button01();        //locked
         maschine.button01();        //open
-
-
     }
 }
