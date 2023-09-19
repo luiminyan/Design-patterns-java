@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Aufgabe01_BeitragProxy/Aufgabe01_BeitragProxy.iml" filepath="$PROJECT_DIR$/Aufgabe01_BeitragProxy/Aufgabe01_BeitragProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe02_TuerkontrolleState/Aufgabe02_TuerkontrolleState.iml" filepath="$PROJECT_DIR$/Aufgabe02_TuerkontrolleState/Aufgabe02_TuerkontrolleState.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/WiSe21_22.iml" filepath="$PROJECT_DIR$/.idea/WiSe21_22.iml" />
     </modules>
   </component>
