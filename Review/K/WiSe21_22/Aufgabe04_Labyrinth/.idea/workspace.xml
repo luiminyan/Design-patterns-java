@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="154d5df9-6633-4580-b7ae-da5dc4e531bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/K.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aufgabe04_Labyrinth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Endpunkt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Labyrinth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabyrinthFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Muster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Startpunkt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vorhang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zelle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SoSe21/Aufgabe02/Aufgabe02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SoSe21/Aufgabe02/Aufgabe02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SoSe21/Aufgabe03/Aufgabe03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SoSe21/Aufgabe03/Aufgabe03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe01_BeitragProxy/Aufgabe01_BeitragProxy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aufgabe01_BeitragProxy/Aufgabe01_BeitragProxy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe02_TuerkontrolleState/Aufgabe02_TuerkontrolleState.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aufgabe02_TuerkontrolleState/Aufgabe02_TuerkontrolleState.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe03_BauComposite/Aufgabe03_BauComposite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aufgabe03_BauComposite/Aufgabe03_BauComposite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe03_BauComposite/src/Bauteil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aufgabe03_BauComposite/src/Bauteil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe03_BauComposite/src/BauteilGruppe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aufgabe03_BauComposite/src/BauteilGruppe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe03_BauComposite/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aufgabe03_BauComposite/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oom_ws2122_exam.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../oom_ws2122_exam.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2Vd6iSh4U2roaaPBNBXfYqFIThi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "/Users/minhua/Documents/Programming_Language/Review/K/WiSe21_22/Aufgabe04_Labyrinth/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="154d5df9-6633-4580-b7ae-da5dc4e531bb" name="Changes" comment="" />
+      <created>1695153736504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695153736504</updated>
+      <workItem from="1695153737526" duration="3320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
