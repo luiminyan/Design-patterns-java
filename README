@@ -1,26 +1,28 @@
 This is the git repository for course programming language in SoSe 2023
-Chapter 01
-Chapter 02
-Chapter 03
+Chapter 01 Java basics review
+Chapter 02 Object oriented programming review
+Chapter 03 UML diagrams
 
-K04: generic programming + recursion 
+Chapter 04: generic programming + recursion 
   -  U04: example: binary tree 
 	  -  04.01: recursion 
 	  -  04.02: generic programming 
 
-K05: strategy + iterator pattern
+Chapter 05: strategy + iterator pattern
   - U05.1: strategy pattern
         -   example 01: Betriebssystem
         -   example 02: Online-Shop
   - U05.02: iterator pattern
         -   example: binary tree
 
-K06: observer pattern + collection (hash map)
+Chapter 06: observer pattern + collection (hash map)
 
-K07: command + decorator pattern
+Chapter 07: command + decorator pattern
 
-K10: template + composite
+Chapter 10: template + composite
   - U10.1: template pattern 
 	-  example: datenHandler (CSVHandler, TXTHandler)
   - U10.2: composite pattern
 	-  example: fileSystem (DirComponent, Directory, File)
+
+Chapter 11: GUI
